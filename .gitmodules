@@ -1,0 +1,3 @@
+[submodule "modules/depg0213_epd"]
+	path = modules/depg0213_epd
+	url = git@github.com:CursedHardware/depg0213_epd.git

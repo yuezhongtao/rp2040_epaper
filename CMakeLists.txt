@@ -5,6 +5,10 @@ include(pico_sdk_import.cmake)
 
 include(pico_extras_import.cmake)
 
+# Pull in FreeRTOS
+include(FreeRTOS_Kernel_import.cmake)
+
+
 project(rp2040_epaper C CXX ASM)
 
 set(CMAKE_C_STANDARD 23)

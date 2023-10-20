@@ -6,7 +6,7 @@
 - pico-sdk
 - pico-extras
 - FREERTOS-KERNEL
-- https://github.com/CursedHardware/depg0213_epd
+- https://github.com/yuezhongtao/depg0213_epd
 
 #### hardware
 - epd display: depg0213
